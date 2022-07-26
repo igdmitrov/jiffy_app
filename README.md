@@ -1,16 +1,7 @@
-# jiffy_app
+# Flutter Jiffy Package DateTime
 
-A new Flutter project.
+Issue with Jiffy package:
+https://stackoverflow.com/questions/73128229/flutter-jiffy-package-datetime?noredirect=1#comment129156022_73128229
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Youtube:
+https://youtu.be/_MGEjWv0niE
